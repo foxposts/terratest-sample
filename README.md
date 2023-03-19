@@ -26,7 +26,7 @@ S3 + CloudFront + WAFをterraformにて管理し、Github Actionsにてterraform
 
 - git clone後にconfig情報を変え自身のGithub RepositoryにPUSH。
 
-- workflowの中でOIDC ID プロバイダー用のRoleをsecretsにて参照しているため、settingsからAWS_ROLE_ARNを設定。(この)
+- workflowの中でOIDC ID プロバイダー用のRoleをsecretsにて参照しているため、settingsからAWS_ROLE_ARNを設定。(このリポジトリには未設定)
 
 
 
