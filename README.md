@@ -3,7 +3,7 @@
 
 ## 概要
 
-S3 + CloudFront + WAFをterraformにて管理し、Github Actionsにてterraformのデプロイを自動化させており
+S3 + CloudFront + WAFをterraformにて管理し、Github Actionsにてterraformのデプロイを自動化し
 
 また、Github Actionsとterratestによる単体テストを実施している。
 
@@ -22,7 +22,7 @@ S3 + CloudFront + WAFをterraformにて管理し、Github Actionsにてterraform
 
 ## 実行確認の準備
 
-以下の作業が必要です。
+以下の作業が必要。
 
 
 - git clone後にconfig情報を変え自身のGithub RepositoryにPUSH。
