@@ -3,9 +3,9 @@
 
 ## 概要
 
-S3 + CloudFront + WAFをterraformにて管理し、Github Actionsにてterraformのデプロイを自動化し
+S3 + CloudFront + WAFをterraformにて管理し、Github Actionsにてterraformのデプロイを自動化。
 
-また、Github Actionsとterratestによる単体テストを実施している。
+また、Github Actionsとterratestにて単体テスト実施。
 
 
 ## GitHub Actions動作
